@@ -1,5 +1,5 @@
 # Riktlinjer för öppen källkod
-De här riktlinjerna vänder sig till medarbetare inom it-avdelningen.
+De här riktlinjerna vänder sig till medarbetare på mynidgheten.
 
 ## Det här handlar riktlinjerna om
 Riktlinjer för öppen källkod beskriver myndighetens förhållningssätt till öppen källkod och närliggande principer på en övergripande nivå och är styrande för it-avdelningens domänstrategier, arkitekturriktlinjer och berörda processer.
