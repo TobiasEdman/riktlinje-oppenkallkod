@@ -89,7 +89,11 @@ Genom att lämna ett bidrag till ett befintligt öppen källkodsprojekt ärver d
 
 Ifall omfattande eller strategiskt stöd ska ges till ett öppen källkodsprojekt ska det godkännas av Nationellt rymddatalabbs styrgrupp.
 
-# 6 - Skapande och delning av öppen källkod
+
+# 6 - Licenser
+
+Nationellt rymddatalabb publiceras kod med Apache 2.0 och resultat enligt CC0. Om det finns andra underliggande licenser som resultaten är beroende av så följs dessa.
+# 7 - Skapande och delning av öppen källkod
 I linje med rekommendationer från Europeiska kommissionen och regeringen ska offentlig verksamhet aktivt arbeta med öppenhet och att dela med sig av data, information och källkod där det är möjligt. Myndigheten ska därför aktivt arbeta med att öppna upp sina applikationer, egenutvecklade funktioner och lösningar för att där det är möjligt tillgängliggöras publikt.
 
 Innan publicering ska materialets ägare först bedöma innehållets konfidentialitet och därefter beslutar och dokumenterar ansvarig it-arkitekt publiceringen.
@@ -99,13 +103,13 @@ Innan publicering ska materialets ägare först bedöma innehållets konfidentia
 * Materialet ska utifrån gällande informationsklassningsmodell och säkerhetsskydd vara lämpligt för publicering.
 * Materialet ska vara av generell karaktär och får inte innehålla konfigurationsparametrar som är specifika för myndigheten.
 * Källkoden får inte omfattas av en licensmodell som omöjliggör publicering.
-* Källkoden ska vara helt skriven inom myndigheten, om tredjepartsprogramvara används i källkodform måste licensformerna vara kompatibla och ingå till fullo eller i enlighet med tredje parts krav.
+* Källkoden ska vara helt skriven inom Natinellt rymddatlabb, om tredjepartsprogramvara används i källkodform måste licensformerna vara kompatibla och ingå till fullo eller i enlighet med tredje parts krav.
 * Kvaliteten på publicerat innehåll ska vara hög och inte innehålla irrelevant information.
 * Publicerat material får inte utsätta myndigheten för ökad risk eller på annat sätt påverka myndighetens anseende negativt.
 * Licensform ska vara bestämd och vara godkänd av Open Source Initiative.
 * Säkerhetsbedömning av källkod ska göras och åtgärder ska vidtas för att säkra kvalitet.
 
-# 7 - Planerad uppföljningsmetod
+# 8 - Planerad uppföljningsmetod
 Uppföljning av riktlinjens efterlevnad samt uppdatering av innehåll och kontroll av dess aktualitet utförs av strategisk arkitekturstyrning i Nationellt rymddatalabb. Ändringar beslutas av Nationellt rymddtalabbs styrgrupp.
 
 
