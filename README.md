@@ -1,8 +1,8 @@
 # Riktlinje för öppen källkod
 ## Information och bakgrund
-Försäkringskassan antog 2018-12-17 ett inom myndigheten formellt styrdokument (Dnr: 15918-2018) gällande öppen källkod. Riktlinjen som gäller på myndighetsnivå hanterar både användandet och delande av öppen källkod samt när personal från myndigheten deltar i öppna samarbeten.
+Nationellt rymddatalabb antog 202x-xx-xx ett inom samarbetet formellt styrdokument (Dnr: xx ) gällande öppen källkod. Riktlinjen som gäller inom Nationellt rymddatalabb hanterar både användandet och delande av öppen källkod samt när användare och utvecklare inom Nationellt ryddatalabb deltar i öppna samarbeten.
 
-Riktlinjen finns som diariefört dokument inom myndigheten, men för att öka samverkan finns dokumentets textinnehåll publicerat här för att enklare kunna spridas och förbättras.
+Riktlinjen finns som diariefört dokument inom respektive samarbetspart, men för att öka samverkan finns dokumentets textinnehåll publicerat här för att enklare kunna spridas och förbättras.
 
 ## Användande och spridning
 Beslutad licensform för riktlinjens innehåll är MIT och får därmed laddas ner, modifieras och vidaredistribueras.
